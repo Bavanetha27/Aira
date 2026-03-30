@@ -179,8 +179,8 @@ aira-postpartum-care/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/aira-postpartum-care.git
-cd aira-postpartum-care
+git clone https://github.com/your-username/Aira.git
+cd Aira
 ```
 
 ---
@@ -212,7 +212,7 @@ Create a `.env` file in the **server/** directory:
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_uri
-OPENAI_API_KEY=your_api_key
+GROQ_API_KEY=your_api_key
 ```
 
 ---
